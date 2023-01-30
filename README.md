@@ -1,1 +1,1 @@
-# gaming-recipies
+# gaming-recipes
