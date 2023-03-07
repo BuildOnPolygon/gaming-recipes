@@ -25,20 +25,23 @@
 
 ## Introduction
 
-The Polygon gaming use case framework is a repository of reference implementations and tools for building decentralized games and gaming infrastructure on the Polygon network, as well as any applicable protocol, solution, or tooling. This framework aims to create a flourishing resource hub of gaming recipes and templates driven by the community. By providing a platform for developers, designers, and other stakeholders to contribute their ideas and expertise, we aim to create a comprehensive set of high-quality, well-documented, accessible tools and resources for building innovative and engaging games on the Polygon ecosystem.
+Polygon gaming recipes is a repository of reference implementations and tools for building decentralized games and gaming infrastructure on the Polygon network, as well as any applicable protocol, solution, or tooling. This framework aims to create a flourishing resource hub of gaming recipes and templates driven by the community. By providing a platform for developers, designers, and other stakeholders to contribute their ideas and expertise, we aim to create a comprehensive set of high-quality, well-documented, accessible tools and resources for building innovative and engaging games on the Polygon ecosystem.
 
 We aim to foster a collaborative community that is passionate about gaming and blockchain technology and works together to create a thriving ecosystem of games and gaming infrastructure on Polygon and beyond. To achieve this goal, we rely on the contributions of the community. By contributing to this framework, you can help to advance decentralized gaming and help to make Polygon and the broader ecosystem a more vibrant and exciting platform for gaming.
 
-This document outlines the guidelines for contributing to the Polygon gaming use case framework. By following these guidelines, you can ensure that your contributions are of the highest quality and meet the community's needs. We look forward to your contributions and thank you for supporting decentralized gaming on Polygon and beyond.
+We look forward to your contributions and thank you for supporting decentralized gaming on Polygon and beyond.
 
 ## Types of recipes
+
+> The following is an initial list of recipes and is subject to change.
 
 ### Tools
 
 - **dApps**: Recipes in this category will guide how to build and deploy decentralized applications (dApps) that utilize the Polygon network. This may include tutorials on integrating the Polygon SDK into your dApp, using Polygon's web3 API, or deploying smart contracts to the Polygon network.
 
 - **Blockchain infrastructure**: Recipes in this category will guide how to set up and manage the blockchain infrastructure needed to create decentralized games on Polygon. This may include tutorials on running a node on the Polygon network, deploying and executing smart contracts, or using Polygon's Layer 2 scaling solutions.
-- Wallets: Recipes in this category will provide guidance on how to build and use wallets that support Polygon. This may include tutorials on integrating the Polygon network into existing wallets or building new wallets that support Polygon.
+
+- **Wallets**: Recipes in this category will provide guidance on how to build and use wallets that support Polygon. This may include tutorials on integrating the Polygon network into existing wallets or building new wallets that support Polygon.
 
 - **Marketplaces**: Recipes in this category will guide how to build and use marketplaces that support Polygon. This may include tutorials on integrating the Polygon network into existing marketplaces or building new marketplaces that support Polygon.
 
