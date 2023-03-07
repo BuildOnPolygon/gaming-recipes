@@ -33,35 +33,35 @@ We look forward to your contributions and thank you for supporting decentralized
 
 ## Types of recipes
 
-> The following is an initial list of recipes and is subject to change.
+> Below is an initial list of recipe categories, which is subject to change and not exhaustive. Please feel free to edit and add categories as you see fit.
 
 ### Tools
 
-- **dApps**: Recipes in this category will guide how to build and deploy decentralized applications (dApps) that utilize the Polygon network. This may include tutorials on integrating the Polygon SDK into your dApp, using Polygon's web3 API, or deploying smart contracts to the Polygon network.
+- **dApps**: Recipes in this category will provide guidance on how to build and deploy decentralized applications (dApps) that utilize the Polygon network. This may include tutorials on integrating the Polygon SDK into your dApp, using Polygon's web3 API, or deploying smart contracts to the Polygon network.
 
-- **Blockchain infrastructure**: Recipes in this category will guide how to set up and manage the blockchain infrastructure needed to create decentralized games on Polygon. This may include tutorials on running a node on the Polygon network, deploying and executing smart contracts, or using Polygon's Layer 2 scaling solutions.
+- **Blockchain infrastructure**: Recipes in this category will provide guidance on how to set up and manage the blockchain infrastructure needed to create decentralized games on Polygon. This may include tutorials on running a node on the Polygon network, deploying and executing smart contracts, or using Polygon's Layer 2 scaling solutions.
 
 - **Wallets**: Recipes in this category will provide guidance on how to build and use wallets that support Polygon. This may include tutorials on integrating the Polygon network into existing wallets or building new wallets that support Polygon.
 
-- **Marketplaces**: Recipes in this category will guide how to build and use marketplaces that support Polygon. This may include tutorials on integrating the Polygon network into existing marketplaces or building new marketplaces that support Polygon.
+- **Marketplaces**: Recipes in this category will provide guidance on how to build and use marketplaces that support Polygon. This may include tutorials on integrating the Polygon network into existing marketplaces or building new marketplaces that support Polygon.
 
-- **Relayers**: Recipes in this category will guide building and using relayers that support Polygon. This may include tutorials on integrating the Polygon network into existing relayers or building new relayers that support Polygon.
+- **Relayers**: Recipes in this category will provide guidance on building and using relayers that support Polygon. This may include tutorials on integrating the Polygon network into existing relayers or building new relayers that support Polygon.
 
-- **Indexers**: Recipes in this category will guide how to build and use indexers that support Polygon. This may include tutorials on integrating the Polygon network into existing indexers or building new indexers that support Polygon.
+- **Indexers**: Recipes in this category will provide guidance on how to build and use indexers that support Polygon. This may include tutorials on integrating the Polygon network into existing indexers or building new indexers that support Polygon.
 
 ### Game Services Infrastructure
 
-- **Content management**: Recipes in this category will guide how to manage content for decentralized games on Polygon. This may include tutorials on storing and managing game assets on IPFS, using decentralized content delivery networks (CDNs), or setting up metadata services for games on Polygon.
+- **Content management**: Recipes in this category will provide guidance on how to manage content for decentralized gaming on Polygon. This may include tutorials on storing and managing game assets on IPFS, using decentralized content delivery networks (CDNs), or setting up metadata services for games on Polygon.
 
-- **Fiat/KYC**: Recipes in this category will guide integrating fiat currency and KYC (know your customer) verification into decentralized games on Polygon. This may include tutorials on using third-party services for fiat on-ramps and off-ramps or how to build your fiat/KYC solution.
+- **Fiat/KYC**: Recipes in this category will provide guidance on integrating fiat currency and KYC (know your customer) verification into decentralized games on Polygon. This may include tutorials on using third-party services for fiat on-ramps and off-ramps or how to build your fiat/KYC solution.
 
-- **Games backends**: Recipes in this category will guide how to build and manage the backend infrastructure for decentralized games on Polygon. This may include tutorials on using database solutions for games, building game logic on Polygon's Layer 2 scaling solutions or using decentralized messaging protocols for multiplayer games.
+- **Games backends**: Recipes in this category will provide guidance on how to build and manage the backend infrastructure for decentralized games on Polygon. This may include tutorials on using database solutions for games, building game logic on Polygon's Layer 2 scaling solutions or using decentralized messaging protocols for multiplayer games.
 
 ### Smart Contracts/Token Standards:
 
-- **Smart Contracts**: Recipes in this category will guide how to create and deploy smart contracts on the Polygon network. This may include tutorials on using the Solidity programming language to create smart contracts, testing and deploying smart contracts on the Polygon network, or using popular smart contract frameworks like OpenZeppelin on Polygon.
+- **Smart Contracts**: Recipes in this category will provide guidance on how to create and deploy smart contracts on the Polygon network. This may include tutorials on using the Solidity programming language to create smart contracts, testing and deploying smart contracts on the Polygon network, or using popular smart contract frameworks like OpenZeppelin on Polygon.
 
-- **Token Standards**: Recipes in this category will guide creating and using token standards on the Polygon network. This may include tutorials on how to use popular token standards like ERC-20 or ERC-721 on Polygon or how to create new token standards for specific gaming use cases.
+- **Token Standards**: Recipes in this category will provide guidance on creating and using token standards on the Polygon network. This may include tutorials on how to use popular token standards like ERC-20 or ERC-721 on Polygon or how to create new token standards for specific gaming use cases.
 
 ## Contributing
 
@@ -77,7 +77,7 @@ Create a detailed recipe, tutorial, or general resource that showcases a common 
 
 #### Compatibility
 
-Your contribution should be compatible with the Polygon ecosystem and any applicable protocol, solution, or tooling. It should be built upon Polygon PoS or Mumbai testnet and be stable or progressing towards stability.
+Your contribution should be compatible with the Polygon ecosystem and any applicable protocol, solution, or tooling. It should be built upon a Polygon chain like PoS, zkEVM, or a testnet like Mumbay. The implementation should also be stable or progressing towards stability.
 
 #### Documentation
 
@@ -89,7 +89,7 @@ Your contribution should be thoroughly tested to ensure it meets the required st
 
 #### Security
 
-Since the contributions involve blockchain infrastructure, it's essential to consider security implications. Consider adding guidelines for security best practices, such as secure coding standards and vulnerability assessments.
+Since the implementations involve blockchain infrastructure, it's essential to consider security implications. Consider adding guidelines for security best practices, such as secure coding standards and vulnerability assessments.
 
 #### Accessibility
 
@@ -97,11 +97,11 @@ Consider adding guidelines for accessibility best practices to ensure that the c
 
 #### Code review process
 
-A team of experts will review your contribution to ensure accuracy, completeness, and adherence to the guidelines. Contributors may be asked to revise their submissions based on feedback from the review team.
+The maintainers of this repository and associated collaborators will review your contribution to ensure accuracy, completeness, and adherence to the guidelines. Contributors may be asked to revise their submissions based on feedback from the review team.
 
 #### Community involvement
 
-We encourage contributors to share their ideas and collaborate with other community members. Join our Discord channel to connect with other developers and share your ideas.
+We encourage contributors to share their ideas and collaborate with other community members. Join the Polygon [Discord channel](https://discord.com/invite/XvpHAxZ) to connect with other developers and share your ideas.
 
 ### Adding recipes
 
