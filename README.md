@@ -25,7 +25,7 @@
 
 ## Introduction
 
-Polygon gaming recipes is a repository of reference implementations and tools for building decentralized games and gaming infrastructure on the Polygon network, as well as any applicable protocol, solution, or tooling. This framework aims to create a flourishing resource hub of gaming recipes and templates driven by the community. By providing a platform for developers, designers, and other stakeholders to contribute their ideas and expertise, we aim to create a comprehensive set of high-quality, well-documented, accessible tools and resources for building innovative and engaging games on the Polygon ecosystem.
+Recipes by Polygon Labs is a repository of web3 game reference implementations, created in partnership with our ecosystem. We believe that these examples will help game developers (accelerate learning / onboarding) and middleware developers (platform to showcase product). By providing a platform for developers, designers, and other stakeholders to contribute their ideas and expertise, we aim to create a comprehensive set of high-quality, well-documented, accessible tools and resources for building innovative and engaging games on the Polygon ecosystem. We envision this to be a community driven hub, and welcome your feedback and participation.
 
 We aim to foster a collaborative community that is passionate about gaming and blockchain technology and works together to create a thriving ecosystem of games and gaming infrastructure on Polygon and beyond. To achieve this goal, we rely on the contributions of the community. By contributing to this framework, you can help to advance decentralized gaming and help to make Polygon and the broader ecosystem a more vibrant and exciting platform for gaming.
 
