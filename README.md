@@ -6,9 +6,9 @@
 
 - [Introduction](#introduction)
 - [Types of recipes](#types-of-recipes)
-  - [Tools](#tools)
+  - [Developer Tooling](#developer-tooling)
   - [Game Services Infrastructure](#game-services-infrastructure)
-  - [Smart Contracts/Token Standards:](#smart-contractstoken-standards)
+  - [Smart Contracts/Token Standards](#smart-contractstoken-standards)
 - [Contributing](#contributing)
   - [Submission guidelines](#submission-guidelines)
     - [Compatibility](#compatibility)
@@ -35,15 +35,11 @@ We look forward to your contributions and thank you for supporting decentralized
 
 > Below is an initial list of recipe categories, which is subject to change and not exhaustive. Please feel free to edit and add categories as you see fit.
 
-### Tools
+### Developer Tooling
 
 - **dApps**: Recipes in this category will provide guidance on how to build and deploy decentralized applications (dApps) that utilize the Polygon network. This may include tutorials on integrating the Polygon SDK into your dApp, using Polygon's web3 API, or deploying smart contracts to the Polygon network.
 
 - **Blockchain infrastructure**: Recipes in this category will provide guidance on how to set up and manage the blockchain infrastructure needed to create decentralized games on Polygon. This may include tutorials on running a node on the Polygon network, deploying and executing smart contracts, or using Polygon's Layer 2 scaling solutions.
-
-- **Wallets**: Recipes in this category will provide guidance on how to build and use wallets that support Polygon. This may include tutorials on integrating the Polygon network into existing wallets or building new wallets that support Polygon.
-
-- **Marketplaces**: Recipes in this category will provide guidance on how to build and use marketplaces that support Polygon. This may include tutorials on integrating the Polygon network into existing marketplaces or building new marketplaces that support Polygon.
 
 - **Relayers**: Recipes in this category will provide guidance on building and using relayers that support Polygon. This may include tutorials on integrating the Polygon network into existing relayers or building new relayers that support Polygon.
 
@@ -57,7 +53,11 @@ We look forward to your contributions and thank you for supporting decentralized
 
 - **Games backends**: Recipes in this category will provide guidance on how to build and manage the backend infrastructure for decentralized games on Polygon. This may include tutorials on using database solutions for games, building game logic on Polygon's Layer 2 scaling solutions or using decentralized messaging protocols for multiplayer games.
 
-### Smart Contracts/Token Standards:
+- **Wallets**: Recipes in this category will provide guidance on how to build and use wallets that support Polygon. This may include tutorials on integrating the Polygon network into existing wallets or building new wallets that support Polygon.
+
+- **Marketplaces**: Recipes in this category will provide guidance on how to build and use marketplaces that support Polygon. This may include tutorials on integrating the Polygon network into existing marketplaces or building new marketplaces that support Polygon.
+
+### Smart Contracts/Token Standards
 
 - **Smart Contracts**: Recipes in this category will provide guidance on how to create and deploy smart contracts on the Polygon network. This may include tutorials on using the Solidity programming language to create smart contracts, testing and deploying smart contracts on the Polygon network, or using popular smart contract frameworks like OpenZeppelin on Polygon.
 
@@ -109,7 +109,7 @@ To add your contribution to the repository, please follow these steps:
 
 1. Fork the repository at https://github.com/PolygonStudiosLab/gaming-recipes.
 
-2. Create a new file or folder in one of the sub-directories in the "recipes" directory. The "recipes" directory contains sub-directories for "templates", "components", "tools," and so on, so please make sure to add your contribution to the appropriate sub-directory.
+2. Create a reference in the most appropriate recipe sub-directories in the "recipes" directory. The "recipes" directory contains sub-directories for "templates", "components", "tools," and so on, so please make sure to add your contribution to the appropriate sub-directory.
 
 3. Ensure that there is a README file that describes the content of your contribution, including any relevant technical details, dependencies, and usage instructions.
 
